@@ -2,7 +2,7 @@ I'm Fred Mamadjanov, an Oracle ACE Pro and EPM Solution Architect based in Toron
 
 I work with Oracle EPM, NetSuite Planning and Budgeting, Vena, and AI for finance.
 
-I build [FMEPM Connect](https://mcp.fmepm.com), connecting AI assistants with Oracle EPM. My public project, [FMEPM Connect Core](https://github.com/fmepm/oracle-epm-mcp-server), is an open-source MCP server for Oracle EPM Cloud.
+I build [FMEPM Connect](https://fmepm.com/fmepm-connect), an MCP connector for Oracle Cloud EPM. The open-source core, [FMEPM Connect Core](https://github.com/fmepm/oracle-epm-mcp-server), is free and self-managed. FMEPM Connect is the hosted and supported edition.
 
 I share practical tutorials and articles at [fmepm.com](https://fmepm.com).
 
